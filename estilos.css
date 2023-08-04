@@ -8,6 +8,27 @@ body{
     color:white;
 }
 
+.redes{
+    background-color:rgba(75, 0, 94, 0.829);
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 10px;
+    margin-right: 10px;
+    height: 50px;
+}
+
+.redes ul li {
+    display: inline-block;
+}
+
+#facebook{
+    height:30px;
+
+}
+#instagram{
+    height: 30px;
+}
 h1{
 color: white;
 background-color:rgba(75, 0, 94, 0.829);
