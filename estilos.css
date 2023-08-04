@@ -17,13 +17,12 @@ body{
     margin-right: 15px;
     height: 50px;
 }
-
 .redes ul li {
     display: inline-block;
 }
-
 .fotos{
     height: 30px;
+    border-radius: 5px;
 }
 
 h1{
